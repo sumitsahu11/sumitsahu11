@@ -7,7 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Building+Intelligent+Systems+from+Scratch;👁️+Computer+Vision+%7C+Deep+Learning+%7C+NLP;🚀+Turning+Raw+Data+into+Real-World+Impact;🔥+AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;💡+Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%A4%96+Building+Intelligent+Systems+from+Scratch;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%7C+Deep+Learning+%7C+NLP;%F0%9F%9A%80+Turning+Raw+Data+into+Real-World+Impact;%F0%9F%94%A5+AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;%F0%9F%92%A1+Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -37,25 +37,23 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
-<br/>
-
 ### 👋 Hey there! I'm **Sumit Kumar Sahu**
 
-> 🎓 Final-year **B.Tech CS (AI & ML)** student at Trident Academy of Technology, Bhubaneswar
->
-> 🔭 I build end-to-end **AI systems** — from raw data to production-ready APIs
->
-> 🏆 Delivered real-world impact at **Tata TPCODL** (Computer Vision) & **Itradiant Solutions** (Intelligent Automation)
->
-> 🌱 Constantly exploring the frontiers of **Deep Learning**, **NLP**, and **Agentic AI**
->
-> ⚡ I thrive on turning complex ML research into **scalable, deployable solutions**
->
-> 💬 Ask me about **YOLOv5**, **Flask APIs**, **SAP Integration**, or anything **Python + AI**
->
-> 🎯 Currently seeking **Full-Time AI/ML Engineer** roles — let's build the future together!
+🎓 Final-year **B.Tech CS (AI & ML)** student at Trident Academy of Technology, Bhubaneswar
 
-<br/>
+🔭 I build end-to-end **AI systems** — from raw data to production-ready APIs
+
+🏆 Delivered real-world impact at **Tata TPCODL** (Computer Vision) & **Itradiant Solutions** (Intelligent Automation)
+
+🌱 Constantly exploring the frontiers of **Deep Learning**, **NLP**, and **Agentic AI**
+
+⚡ I thrive on turning complex ML research into **scalable, deployable solutions**
+
+💬 Ask me about **YOLOv5**, **Flask APIs**, **SAP Integration**, or anything **Python + AI**
+
+🎯 Currently seeking **Full-Time AI/ML Engineer** roles — let's build the future together!
+
+<br clear="right"/>
 
 ```python
 class SumitKumarSahu:
@@ -81,98 +79,73 @@ class SumitKumarSahu:
         return "Build things that think. 💡"
 ```
 
-<br clear="right"/>
-
 ---
 
 ## 💼 Professional Experience
 
 <div align="center">
-
-<!-- Animated experience banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=2+Internships+%7C+2+Production+Deployments+%7C+Real+Business+Impact+💼" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=2+Internships+%7C+2+Production+Deployments+%7C+Real+Business+Impact" />
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🏢 Tata TPCODL
-**AI/ML Intern** &nbsp; `Dec 2025 – Feb 2026`
+### 🏢 Tata TPCODL — AI/ML Intern &nbsp; `Dec 2025 – Feb 2026`
 
 - 🎯 Deployed a **Computer Vision** system for field meter inspection eliminating all manual image validation
 - ⚡ Integrated **YOLOv5** end-to-end into a **Flask API** backend — production-ready from day one
 - 🏭 Scaled across live field operations with zero downtime
 
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Itradiant Solutions Pvt Ltd
-**AI/ML Intern** &nbsp; `Mar 2026 – May 2026`
+### 🏢 Itradiant Solutions Pvt Ltd — AI/ML Intern &nbsp; `Mar 2026 – May 2026`
 
 - 🤖 Automated invoice reconciliation with Python — cut manual AP effort by **~80%**
 - 📊 Built a live **Streamlit + Plotly** dashboard tracking pipeline health & cash-unlock status in real time
 - 💰 Directly impacted financial operations at production scale
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Projects+that+went+from+idea+→+production+🚀" />
-
-<br/><br/>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsahu11&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Projects+that+went+from+idea+to+production" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsahu11&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" />
+  </a>
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔌 AI-Powered Electric Meter Detection
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 End-to-end CV pipeline:
+
 > 📹 Video Ingestion → 🖼️ Frame Extraction → ✏️ Annotation → 🧠 YOLOv5 Training → 🌐 Flask API Inference → 🗃️ SQLite Logging
 
 - ✅ **95% Accuracy** on live field images
 - ✅ **0.92 AUC** score on real-world data
 - ✅ Production-deployed at Tata TPCODL
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 📄 GR/IR Clearing Automation Engine
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 Hybrid **TF-IDF + RapidFuzz** matching engine:
+
 > 📥 Invoice Input → 🔍 Hybrid Matching → 🗂️ 4-Bucket Routing → 💼 SAP RFC/BAPI Posting → 📊 Real-time Plotly Dashboard
 
 - ✅ Auto-clears invoices → Escalation pipeline
 - ✅ Direct SAP integration via RFC/BAPI
 - ✅ Live monitoring dashboard for ops team
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -180,7 +153,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tools+I+use+to+bring+AI+ideas+to+life+⚙️" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tools+I+use+to+bring+AI+ideas+to+life" />
 
 <br/><br/>
 
@@ -221,7 +194,6 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/>
 
-<!-- Animated skill bars via image -->
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,streamlit,git,aws,sqlite,sklearn&theme=dark&perline=5" />
 
 </div>
@@ -232,7 +204,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=My+GitHub+stats+tell+the+story+📊" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=My+GitHub+stats+tell+the+story" />
 
 <br/><br/>
 
@@ -246,7 +218,6 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/><br/>
 
-<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" />
 
 </div>
@@ -257,12 +228,12 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+foundation+brick+by+brick+🎓" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+foundation+brick+by+brick" />
 
 <br/><br/>
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|----------------|---------|
+|:----------|:---------------|:--------|
 | **B.Tech — CS (AI & ML)** | Trident Academy of Technology, Bhubaneswar | 2022 – 2026 |
 | **Senior Secondary (XII, CBSE)** | Kendriya Vidyalaya No.6, Bhubaneswar | 2021 – 2022 |
 | **Secondary (X, CBSE)** | Kendriya Vidyalaya No.6, Bhubaneswar | 2019 – 2020 |
@@ -275,7 +246,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Milestones+along+the+journey+🏆" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Milestones+along+the+journey" />
 
 <br/><br/>
 
@@ -289,7 +260,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+opportunities+%26+collaborations+🤝;Let's+build+something+incredible+together!+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+opportunities+%26+collaborations;Let%27s+build+something+incredible+together!" />
 
 <br/><br/>
 
