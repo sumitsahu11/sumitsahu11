@@ -206,13 +206,20 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&hide_border=false" alt="Sumit's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&hide_border=false&exclude_repo=github-readme-stats" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&exclude_repo=github-readme-stats" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0d1117" alt="GitHub Streak" />
 
 <br/><br/>
 
