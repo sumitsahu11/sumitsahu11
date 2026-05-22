@@ -7,7 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%A4%96+Building+Intelligent+Systems+from+Scratch;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%7C+Deep+Learning+%7C+NLP;%F0%9F%9A%80+Turning+Raw+Data+into+Real-World+Impact;%F0%9F%94%A5+AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;%F0%9F%92%A1+Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Intelligent+Systems+from+Scratch;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real-World+Impact;AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -17,15 +17,15 @@
   <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <a href="mailto:sumitkumarsahu1111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/sumitsahu11">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
 ### 👋 Hey there! I'm **Sumit Kumar Sahu**
 
@@ -58,25 +58,25 @@
 ```python
 class SumitKumarSahu:
     name        = "Sumit Kumar Sahu"
-    role        = "AI/ML Engineer 🤖"
-    location    = "Bhubaneswar, India 🇮🇳"
-    education   = "B.Tech CS (AI & ML) — 2026 🎓"
-    email       = "sumitkumarsahu1111@gmail.com 📧"
-    phone       = "+91 93484 52606 📱"
+    role        = "AI/ML Engineer"
+    location    = "Bhubaneswar, India"
+    education   = "B.Tech CS (AI & ML) -- 2026"
+    email       = "sumitkumarsahu1111@gmail.com"
+    phone       = "+91 93484 52606"
 
     focus_areas = [
-        "Computer Vision 👁️",
-        "Deep Learning 🧬",
-        "Intelligent Automation 🤖",
-        "Full-Stack AI APIs 🚀",
-        "NLP & LLMs 💬",
+        "Computer Vision",
+        "Deep Learning",
+        "Intelligent Automation",
+        "Full-Stack AI APIs",
+        "NLP & LLMs",
     ]
 
-    currently   = "Building AI that solves real problems 🔥"
-    available   = True   # Open to Full-Time Roles ✅
+    currently   = "Building AI that solves real problems"
+    available   = True   # Open to Full-Time Roles
 
     def life_motto(self):
-        return "Build things that think. 💡"
+        return "Build things that think."
 ```
 
 ---
@@ -89,16 +89,16 @@ class SumitKumarSahu:
 
 <br/>
 
-### 🏢 Tata TPCODL — AI/ML Intern &nbsp; `Dec 2025 – Feb 2026`
+### 🏢 Tata TPCODL — AI/ML Intern `Dec 2025 – Feb 2026`
 
-- 🎯 Deployed a **Computer Vision** system for field meter inspection eliminating all manual image validation
+- 🎯 Deployed a **Computer Vision** system for field meter inspection, eliminating all manual image validation
 - ⚡ Integrated **YOLOv5** end-to-end into a **Flask API** backend — production-ready from day one
 - 🏭 Scaled across live field operations with zero downtime
 
-### 🏢 Itradiant Solutions Pvt Ltd — AI/ML Intern &nbsp; `Mar 2026 – May 2026`
+### 🏢 Itradiant Solutions Pvt Ltd — AI/ML Intern `Mar 2026 – May 2026`
 
 - 🤖 Automated invoice reconciliation with Python — cut manual AP effort by **~80%**
-- 📊 Built a live **Streamlit + Plotly** dashboard tracking pipeline health & cash-unlock status in real time
+- 📊 Built a live **Streamlit + Plotly** dashboard tracking pipeline health and cash-unlock status in real time
 - 💰 Directly impacted financial operations at production scale
 
 ---
@@ -108,8 +108,8 @@ class SumitKumarSahu:
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Projects+that+went+from+idea+to+production" />
   <br/><br/>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsahu11&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" />
+  <a href="https://github.com/sumitsahu11/meter-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsahu11&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="meter-detection repo" />
   </a>
 </div>
 
@@ -124,7 +124,7 @@ class SumitKumarSahu:
 
 End-to-end CV pipeline:
 
-> 📹 Video Ingestion → 🖼️ Frame Extraction → ✏️ Annotation → 🧠 YOLOv5 Training → 🌐 Flask API Inference → 🗃️ SQLite Logging
+**Video Ingestion → Frame Extraction → Annotation → YOLOv5 Training → Flask API Inference → SQLite Logging**
 
 - ✅ **95% Accuracy** on live field images
 - ✅ **0.92 AUC** score on real-world data
@@ -141,9 +141,9 @@ End-to-end CV pipeline:
 
 Hybrid **TF-IDF + RapidFuzz** matching engine:
 
-> 📥 Invoice Input → 🔍 Hybrid Matching → 🗂️ 4-Bucket Routing → 💼 SAP RFC/BAPI Posting → 📊 Real-time Plotly Dashboard
+**Invoice Input → Hybrid Matching → 4-Bucket Routing → SAP RFC/BAPI Posting → Real-time Plotly Dashboard**
 
-- ✅ Auto-clears invoices → Escalation pipeline
+- ✅ Auto-clears invoices with escalation pipeline
 - ✅ Direct SAP integration via RFC/BAPI
 - ✅ Live monitoring dashboard for ops team
 
@@ -208,17 +208,17 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="Sumit's GitHub Stats" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -250,7 +250,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumitsahu11&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=sumitsahu11&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -265,24 +265,24 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 <br/><br/>
 
 <a href="mailto:sumitkumarsahu1111@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/sumitsahu11">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="tel:+919348452606">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br/><br/>
 
-> *"The best way to predict the future is to build it with AI."* 🚀
+*"The best way to predict the future is to build it with AI."* 🚀
 
 <br/>
 
