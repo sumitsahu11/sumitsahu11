@@ -236,7 +236,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
+      
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&exclude_repo=github-readme-stats" alt="Top Languages" />
