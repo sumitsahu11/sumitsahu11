@@ -1,20 +1,29 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=60&descSize=18&descColor=a0d8ef" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=🤖%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=62&descSize=18&descColor=a0d8ef" />
 
 <br/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Intelligent+Systems+from+Scratch;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real-World+Impact;AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+from+Scratch;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%7C+Deep+Learning+%7C+NLP;%F0%9F%9A%80+Turning+Raw+Data+into+Real-World+Impact;%F0%9F%8F%86+AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;%F0%9F%8E%AF+Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Animated Snake Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=👁️%20Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <a href="mailto:sumitkumarsahu1111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -27,6 +36,15 @@
   <a href="https://github.com/sumitsahu11">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<!-- Status Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-00d4ff?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-ff6b6b?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
@@ -68,7 +86,7 @@
   </tr>
   <tr>
     <td>📍 <strong>Location</strong></td>
-    <td>Hydrabad,telangana,india</td>
+    <td>Bhubaneswar, India</td>
   </tr>
   <tr>
     <td>🎓 <strong>Education</strong></td>
@@ -145,7 +163,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-> 🔗 **[View Repository → sumitsahu11/meter-detection-system](https://github.com/sumitsahu11/AI-Powered-Electric-Meter-Detection-System.git)**
+> 🔗 **[View Repository → sumitsahu11/meter-detection](https://github.com/sumitsahu11/meter-detection)**
 
 End-to-end CV pipeline:
 
@@ -163,9 +181,6 @@ End-to-end CV pipeline:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-> 🔗 **[View Repository → sumitsahu11/GR-IR-automation](https://github.com/sumitsahu11/GR-IR-Clearing-Automation-System.git)**
-
 
 Hybrid **TF-IDF + RapidFuzz** matching engine:
 
