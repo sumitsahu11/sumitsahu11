@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>📍 <strong>Location</strong></td>
-    <td>Bhubaneswar, India</td>
+    <td>Hydrabad,telangana,india</td>
   </tr>
   <tr>
     <td>🎓 <strong>Education</strong></td>
