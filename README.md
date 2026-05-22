@@ -145,7 +145,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-> 🔗 **[View Repository → sumitsahu11/meter-detection](https://github.com/sumitsahu11/meter-detection)**
+> 🔗 **[View Repository → sumitsahu11/meter-detection-system](https://github.com/sumitsahu11/AI-Powered-Electric-Meter-Detection-System.git)**
 
 End-to-end CV pipeline:
 
@@ -163,6 +163,9 @@ End-to-end CV pipeline:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+> 🔗 **[View Repository → sumitsahu11/GR-IR-automation](https://github.com/sumitsahu11/GR-IR-Clearing-Automation-System.git)**
+
 
 Hybrid **TF-IDF + RapidFuzz** matching engine:
 
