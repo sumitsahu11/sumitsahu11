@@ -1,43 +1,4 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=60&descSize=18&descColor=a0d8ef" />
-
-<br/>
-
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Intelligent+Systems+from+Scratch;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real-World+Impact;AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="mailto:sumitkumarsahu1111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sumitsahu11">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 🧠 About Me
-
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
-
-### 👋 Hey there! I'm **Sumit Kumar Sahu**
+t Kumar Sahu**
 
 🎓 Final-year **B.Tech CS (AI & ML)** student at Trident Academy of Technology, Bhubaneswar
 
