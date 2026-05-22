@@ -1,342 +1,242 @@
-bash
-
-cat > /mnt/user-data/outputs/README.md << 'EOF'
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          SUMIT KUMAR SAHU — GitHub Profile README            ║ -->
-<!-- ║  Replace every "sumitkumarsahu" with your actual username    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- ════════════════════ HEADER BANNER (3D glow effect) ════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=280&section=header&text=Sumit%20Kumar%20Sahu&fontSize=78&fontColor=ffffff&fontAlignY=52&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=72&descSize=20&stroke=A855F7&strokeWidth=3" alt="Header"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sumit%20Kumar%20Sahu&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descColor=a0aec0&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- ════════════════════ TYPING ANIMATION ════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=🧠+Building+AI+that+Thinks+%26+Solves;🎯+Computer+Vision+%7C+Deep+Learning+%7C+MLOps;⚡+YOLOv5+%7C+PyTorch+%7C+TensorFlow+%7C+Flask;🚀+Turning+Raw+Data+into+Real+Intelligence;💡+From+Bhubaneswar+%E2%80%94+Building+for+the+World" alt="Typing SVG"/>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+AI+that+works+in+the+real+world+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+Automation;95%25+Accuracy+on+Live+Field+Images+%E2%9C%A8;Turning+data+into+decisions%2C+code+into+impact" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social badges -->
+<a href="mailto:sumitkumarsahu1111@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sumitkumarsahu1111-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sumit-kumar-sahu">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="tel:+919348452606">
+  <img src="https://img.shields.io/badge/Phone-%2B91%209348452606-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<!-- ════════════════════ SOCIAL BADGES ════════════════════ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkumarsahu)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkumarsahu1111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkumarsahu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumitkumarsahu&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sumitkumarsahu?label=FOLLOWERS&style=for-the-badge&color=302b63)
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=sumit-kumar-sahu&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-kumar-sahu&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" width="100%" />
+</div>
 
 ---
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
-
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-## 🧠 About Me
+## ⚡ About Me
 
 ```python
 class SumitKumarSahu:
     def __init__(self):
         self.name        = "Sumit Kumar Sahu"
         self.role        = "AI/ML Engineer"
-        self.location    = "Bhubaneswar, Odisha 🇮🇳"
-        self.education   = "B.Tech CSE (AI & ML) — 2026"
-        self.college     = "Trident Academy of Technology"
-        self.specialties = [
-            "🎯 Computer Vision & Object Detection",
-            "🤖 Deep Learning & Neural Networks",
-            "⚙️  Intelligent Process Automation",
-            "🚀 ML Deployment & MLOps",
-        ]
-        self.currently   = "Open to Full-Time AI/ML Roles 🔍"
-        self.contact     = "sumitkumarsahu1111@gmail.com"
-        self.motto       = "Build AI that solves real problems 🚀"
+        self.location    = "Bhubaneswar, Odisha, India 🇮🇳"
+        self.education   = "B.Tech CSE (AI & ML) — Trident Academy of Technology (2022–2026)"
+        self.focus       = ["Computer Vision", "Deep Learning", "Intelligent Automation"]
+        self.currently   = "Building production-grade AI solutions that solve real-world problems"
 
     def say_hi(self):
-        print("Thanks for stopping by!")
-        print("Let's build something incredible together. 🤝")
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
 
 me = SumitKumarSahu()
 me.say_hi()
 ```
 
-<br clear="both"/>
-
 ---
 
-<!-- ════════════════════ CURRENT STATUS ════════════════════ -->
-## 📌 Current Status
-
-| | |
-|---|---|
-| 🔭 Working On | Enhancing ML pipelines & Computer Vision systems |
-| 🌱 Learning | LLMs · RAG Pipelines · LangChain |
-| 👀 Open To | Full-time AI/ML Engineer roles (2026) |
-| 💬 Ask Me About | YOLOv5 · Flask APIs · Automation · Streamlit |
-| ⚡ Fun Fact | I make machines see — then I make them think |
-
----
-
-<!-- ════════════════════ WORK EXPERIENCE ════════════════════ -->
-## 💼 Work Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 Tata TPCODL
-**AI/ML Intern** &nbsp;|&nbsp; `Dec 2025 – Feb 2026`
-
-- 🔍 Deployed **Computer Vision system** for field electric meter inspection — eliminated 100% manual image validation across operations
-- ⚙️ Integrated **YOLOv5** end-to-end into a **Flask REST API** backend — production-ready for real-world deployment
-- 🎯 Achieved **95% accuracy** & **0.92 AUC** on live field images
-- 🗄️ Structured inference logging via **SQLite**
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Itradiant Solutions Pvt. Ltd.
-**AI/ML Intern** &nbsp;|&nbsp; `Mar 2026 – May 2026`
-
-- 🤖 Automated full **invoice reconciliation workflow** — cut manual AP processing by **~80%**
-- 📊 Delivered live **Streamlit + Plotly** dashboard tracking pipeline health & cash-unlock status in real time
-- 🔗 Direct **SAP RFC/BAPI** integration for enterprise-grade invoice posting
-- 🧠 Built **Hybrid TF-IDF + RapidFuzz** engine for intelligent invoice matching
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 GR/IR Clearing Automation Engine
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_RFC/BAPI-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-```
-📥 Invoice Input
-      │
-      ▼
-🧠 Hybrid TF-IDF + RapidFuzz Engine
-      │
-      ▼
-📂 4-Bucket Smart Routing:
-  ✅ Auto-Clear → 🔍 Review
-  ⚠️ Escalate  → ❌ Reject
-      │
-      ▼
-🔗 SAP RFC/BAPI Direct Posting
-      │
-      ▼
-📊 Real-time Plotly Dashboard
-```
-
-> ✅ Reduced AP effort by **~80%** · Live enterprise deployment
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 AI Meter Detection System
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-```
-🎥 Video Ingestion
-      │
-      ▼
-🖼️  Frame Extraction & Annotation
-      │
-      ▼
-🏋️  YOLOv5 Custom Model Training
-      │
-      ▼
-🌐 Flask REST API Inference
-      │
-      ▼
-🗄️  SQLite Logging & Results
-```
-
-> ✅ **95% Accuracy** · **0.92 AUC** · Deployed @ Tata TPCODL
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ════════════════════ TECH ARSENAL ════════════════════ -->
-## 🛠️ Tech Arsenal
+## 🧠 AI/ML Arsenal
 
 <div align="center">
 
-**🐍 Languages**
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,sql,html&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,sklearn&theme=dark" />
 
-**🤖 AI · ML · Computer Vision**
+<br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00B4D8?style=for-the-badge&logoColor=white)
-
-**🌐 Frameworks & Libraries**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**☁️ Tools · Cloud · Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_RFC/BAPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Category | Tools |
+|---|---|
+| 🤖 **AI / ML** | Machine Learning · Deep Learning · Computer Vision · YOLOv5 · TF-IDF |
+| 📦 **Libraries** | PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy · RapidFuzz |
+| 🌐 **Web & APIs** | Flask · Streamlit · Plotly |
+| 🗄️ **Databases** | SQLite · SAP RFC/BAPI |
+| ☁️ **Cloud & Tools** | AWS · Git · GitHub |
 
 </div>
 
 ---
 
-<!-- ════════════════════ GITHUB ANALYTICS ════════════════════ -->
+## 💼 Experience
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏢  AI/ML Intern @ Itradiant Solutions Pvt Ltd      Mar 2026 – May 2026│
+│  ─────────────────────────────────────────────────────────────────────  │
+│  ▶ Automated invoice reconciliation with Python → ~80% reduction in     │
+│    manual AP processing effort                                          │
+│  ▶ Built live monitoring dashboard (Streamlit + Plotly) tracking        │
+│    pipeline health and cash-unlock status in real time                  │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏭  AI/ML Intern @ Tata TPCODL                      Dec 2025 – Feb 2026│
+│  ─────────────────────────────────────────────────────────────────────  │
+│  ▶ Deployed a Computer Vision system for field meter inspection,        │
+│    eliminating manual image validation across operations                │
+│  ▶ Integrated YOLOv5 end-to-end into a Flask API backend —             │
+│    production-ready for real-world deployment                           │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ AI-Powered Electric Meter Detection
+<img src="https://img.shields.io/badge/Accuracy-95%25-00d4ff?style=flat-square&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUC-0.92-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-YOLOv5%20%7C%20Flask%20%7C%20PyTorch-1a1a2e?style=flat-square"/>
+
+End-to-end Computer Vision pipeline:
+- 🎥 Video ingestion → frame extraction
+- 🏷️ Annotation → YOLOv5 training
+- 🔌 Flask API inference + SQLite logging
+- **95% accuracy & 0.92 AUC** on live field images
+
+**Tech:** `Python` `YOLOv5` `PyTorch` `Flask` `SQLite`
+
+</td>
+<td width="50%">
+
+### 🔄 GR/IR Clearing Automation Engine
+<img src="https://img.shields.io/badge/Efficiency-80%25%20Faster-00d4ff?style=flat-square&logo=zap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP-Integrated-0FAAFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Streamlit%20%7C%20SAP-1a1a2e?style=flat-square"/>
+
+Hybrid invoice reconciliation engine:
+- 🧩 TF-IDF + RapidFuzz matching engine
+- 📊 Auto-routes invoices across 4 buckets
+- 🔗 Direct SAP RFC/BAPI posting
+- 📈 Real-time Plotly monitoring dashboard
+
+**Tech:** `Python` `SAP` `Scikit-learn` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitkumarsahu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7B2FBE&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&icon_color=7B2FBE&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-sahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsahu&layout=compact&langs_count=8&theme=midnight-purple&border_color=7B2FBE&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-sahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img width="67%" src="https://streak-stats.demolab.com?user=sumitkumarsahu&theme=midnight-purple&border=7B2FBE&background=0D0D0D&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sumitkumarsahu&theme=darkhub&column=6&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitkumarsahu&bg_color=0d0d0d&color=A855F7&line=7B2FBE&point=ffffff&area=true&area_color=1a0533&border_color=7B2FBE&radius=8)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-kumar-sahu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
 </div>
 
 ---
 
-<!-- ════════════════════ EDUCATION ════════════════════ -->
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumit-kumar-sahu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎓 Certifications | Provider |
+|---|---|
+| Machine Learning Specialization | Andrew Ng / Coursera |
+| Deep Learning with PyTorch | Udemy / Fast.ai |
+| Computer Vision with YOLOv5 | Self-directed + Industry |
+
+</div>
+
+---
+
 ## 🎓 Education
 
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🏛️  Trident Academy of Technology, Bhubaneswar                     ║
-║       B.Tech — Computer Science Engineering (AI & ML)                ║
-║       2022 – 2026                                                    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  📚  Kendriya Vidyalaya No.6, Bhubaneswar                            ║
-║       Senior Secondary — XII (CBSE)              2021 – 2022        ║
-║       Secondary        —  X (CBSE)               2019 – 2020        ║
-╚══════════════════════════════════════════════════════════════════════╝
+🎓 B.Tech — Computer Science (AI & ML)                     2022 – 2026
+   Trident Academy of Technology, Bhubaneswar 751021
+
+📚 Senior Secondary (XII, CBSE)                            2021 – 2022
+   Kendriya Vidyalaya No. 6, Bhubaneswar 751020
+
+📖 Secondary (X, CBSE)                                     2019 – 2020
+   Kendriya Vidyalaya No. 6, Bhubaneswar 751020
 ```
+
+</div>
 
 ---
 
-<!-- ════════════════════ SNAKE CONTRIBUTION ════════════════════ -->
-## 🐍 Contribution Snake
+## 🌊 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumit-kumar-sahu/sumit-kumar-sahu/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumit-kumar-sahu/sumit-kumar-sahu/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sumit-kumar-sahu/sumit-kumar-sahu/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
-<details>
-<summary>⚙️ <b>How to activate the snake animation</b></summary>
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 <br/>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+**"The best way to predict the future is to create it with AI."**
 
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<br/>
 
-</details>
-
----
-
-<!-- ════════════════════ CONNECT ════════════════════ -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Kumar%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkumarsahu)
-[![Gmail](https://img.shields.io/badge/Gmail-sumitkumarsahu1111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkumarsahu1111@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2093484%2052606-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919348452606)
+⭐ *If you find my work interesting, consider giving a star to my repositories!* ⭐
 
 </div>
-
----
-
-<!-- ════════════════════ FOOTER ════════════════════ -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Let%27s%20Build%20the%20Future%20with%20AI%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-
-**✨ "Code is poetry. AI is the future. Let's write it — together." ✨**
-
-⭐ If my work inspires you, drop a star — it means the world!
-
-</div>
-EOF
-echo "Done. Lines: $(wc -l < /mnt/user-data/outputs/README.md)"
