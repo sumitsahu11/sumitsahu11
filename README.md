@@ -107,10 +107,6 @@ class SumitKumarSahu:
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Projects+that+went+from+idea+to+production" />
-  <br/><br/>
-  <a href="https://github.com/sumitsahu11/meter-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsahu11&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="meter-detection repo" />
-  </a>
 </div>
 
 <br/>
@@ -121,6 +117,8 @@ class SumitKumarSahu:
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+> 🔗 **[View Repository → sumitsahu11/meter-detection](https://github.com/sumitsahu11/meter-detection)**
 
 End-to-end CV pipeline:
 
@@ -208,9 +206,9 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="Sumit's GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&hide_border=false" alt="Sumit's GitHub Stats" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&hide_border=false&exclude_repo=github-readme-stats" alt="Top Languages" />
 
 <br/><br/>
 
