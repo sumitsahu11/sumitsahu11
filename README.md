@@ -1,56 +1,33 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0a0e1a,70:0d1b2a,100:071520&height=250&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=⚡%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=65&descSize=18&descColor=7ec8e3" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=60&descSize=18&descColor=a0d8ef" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               ANIMATED TYPING TEXT                  -->
-<!-- ═══════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=600&color=00D4FF&center=true&vCenter=true&width=780&height=48&lines=▸+Building+Intelligent+Systems+from+Scratch;▸+Computer+Vision+%7C+YOLOv5+%7C+OpenCV;▸+Deep+Learning+%7C+NLP+%7C+Agentic+AI;▸+AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;▸+Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Intelligent+Systems+from+Scratch;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real-World+Impact;AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               PROFILE & SOCIAL BADGES               -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile+Views&color=0d1b2a&style=for-the-badge&labelColor=00d4ff" />
+  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Status-Open%20To%20Work-00d4ff?style=for-the-badge&labelColor=0d1b2a" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍-Hyderabad%2C%20India-58a6ff?style=for-the-badge&labelColor=0d1b2a" />
-</p>
-
-<p>
   <a href="mailto:sumitkumarsahu1111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/sumitsahu11">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="tel:+919348452606">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--          ANIMATED CONTRIBUTION SNAKE                -->
-<!-- ═══════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
@@ -91,7 +68,7 @@
   </tr>
   <tr>
     <td>📍 <strong>Location</strong></td>
-    <td>Hyderabad, Telangana, India</td>
+    <td>Hydrabad,telangana,india</td>
   </tr>
   <tr>
     <td>🎓 <strong>Education</strong></td>
@@ -108,11 +85,11 @@
   <tr>
     <td>🔭 <strong>Focus Areas</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Computer%20Vision-0d1b2a?style=flat-square&labelColor=00d4ff&color=0d1b2a" />
-      <img src="https://img.shields.io/badge/Deep%20Learning-0d1b2a?style=flat-square&labelColor=00d4ff&color=0d1b2a" />
-      <img src="https://img.shields.io/badge/Intelligent%20Automation-0d1b2a?style=flat-square&labelColor=00d4ff&color=0d1b2a" />
-      <img src="https://img.shields.io/badge/Full--Stack%20AI%20APIs-0d1b2a?style=flat-square&labelColor=00d4ff&color=0d1b2a" />
-      <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-0d1b2a?style=flat-square&labelColor=00d4ff&color=0d1b2a" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Intelligent%20Automation-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Full--Stack%20AI%20APIs-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-00d4ff?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -134,7 +111,7 @@
 ## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=2+Internships+%7C+2+Production+Deployments+%7C+Real+Business+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=2+Internships+%7C+2+Production+Deployments+%7C+Real+Business+Impact" />
 </div>
 
 <br/>
@@ -156,7 +133,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Projects+that+went+from+idea+to+production" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Projects+that+went+from+idea+to+production" />
 </div>
 
 <br/>
@@ -168,7 +145,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-> 🔗 **[View Repository → sumitsahu11/AI-Powered-Electric-Meter-Detection-System](https://github.com/sumitsahu11/AI-Powered-Electric-Meter-Detection-System.git)**
+> 🔗 **[View Repository → sumitsahu11/meter-detection-system](https://github.com/sumitsahu11/AI-Powered-Electric-Meter-Detection-System.git)**
 
 End-to-end CV pipeline:
 
@@ -187,7 +164,8 @@ End-to-end CV pipeline:
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-> 🔗 **[View Repository → sumitsahu11/GR-IR-Clearing-Automation-System](https://github.com/sumitsahu11/GR-IR-Clearing-Automation-System.git)**
+> 🔗 **[View Repository → sumitsahu11/GR-IR-automation](https://github.com/sumitsahu11/GR-IR-Clearing-Automation-System.git)**
+
 
 Hybrid **TF-IDF + RapidFuzz** matching engine:
 
@@ -203,7 +181,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Tools+I+use+to+bring+AI+ideas+to+life" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tools+I+use+to+bring+AI+ideas+to+life" />
 
 <br/><br/>
 
@@ -254,36 +232,31 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=My+GitHub+stats+tell+the+story" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=My+GitHub+stats+tell+the+story" />
 
 <br/><br/>
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitsahu11&theme=github_dark" alt="GitHub Stats" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitsahu11&theme=github_dark" alt="Sumit's GitHub Stats" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitsahu11&theme=github_dark" alt="Top Languages by Repo" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitsahu11&theme=github_dark" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitsahu11&theme=github_dark" width="100%" alt="Profile Details" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0d1117&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0d1117" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=1f2937" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -293,7 +266,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+the+foundation+brick+by+brick" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+foundation+brick+by+brick" />
 
 <br/><br/>
 
@@ -311,7 +284,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Milestones+along+the+journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Milestones+along+the+journey" />
 
 <br/><br/>
 
@@ -325,33 +298,33 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Open+to+opportunities+%26+collaborations;Let%27s+build+something+incredible+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+opportunities+%26+collaborations;Let%27s+build+something+incredible+together!" />
 
 <br/><br/>
 
 <a href="mailto:sumitkumarsahu1111@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/sumitsahu11">
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="tel:+919348452606">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br/><br/>
 
-> *"The best way to predict the future is to build it with AI."* ⚡
+*"The best way to predict the future is to build it with AI."* 🚀
 
 <br/>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071520,40:0a0e1a,70:0d1b2a,100:000000&height=130&section=footer&animation=fadeIn" />
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
