@@ -1,61 +1,33 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              HEADER BANNER                     -->
-<!-- ══════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&stroke=7c3aed&strokeWidth=3&desc=🤖%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=64&descSize=19&descColor=e0c3fc" />
-
-<!-- ══════════════════════════════════════════════ -->
-<!--           ANIMATED TYPING BANNER               -->
-<!-- ══════════════════════════════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=820&height=55&lines=🧠+Building+Intelligent+Systems+from+Scratch;👁️+Computer+Vision+%7C+YOLOv5+%7C+OpenCV;🚀+Deep+Learning+%7C+PyTorch+%7C+TensorFlow;🤖+NLP+%7C+LLMs+%7C+Agentic+AI;🏆+AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;🎯+Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
-</a>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=60&descSize=18&descColor=a0d8ef" />
 
 <br/>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--            PROFILE BADGES ROW                  -->
-<!-- ══════════════════════════════════════════════ -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-a855f7?style=for-the-badge&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-f43f5e?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Intelligent+Systems+from+Scratch;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real-World+Impact;AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+</a>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              SOCIAL LINKS ROW                  -->
-<!-- ══════════════════════════════════════════════ -->
+<br/><br/>
+
+<!-- Profile Views & Social Badges -->
 <p>
+  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
   <a href="mailto:sumitkumarsahu1111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/sumitsahu11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="tel:+919348452606">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!-- ══════════════════════════════════════════════ -->
-<!--         ANIMATED CONTRIBUTION SNAKE            -->
-<!-- ══════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
@@ -63,23 +35,23 @@
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
 ### 👋 Hey there! I'm **Sumit Kumar Sahu**
 
-🎓 Final-year **B.Tech CS (AI & ML)** — Trident Academy of Technology, Bhubaneswar
+🎓 Final-year **B.Tech CS (AI & ML)** student at Trident Academy of Technology, Bhubaneswar
 
-🔭 I build **end-to-end AI systems** — from raw data to production-ready APIs
+🔭 I build end-to-end **AI systems** — from raw data to production-ready APIs
 
-🏆 Real-world impact at **Tata TPCODL** (Computer Vision) & **Itradiant Solutions** (Intelligent Automation)
+🏆 Delivered real-world impact at **Tata TPCODL** (Computer Vision) & **Itradiant Solutions** (Intelligent Automation)
 
-🌱 Constantly pushing into **Deep Learning**, **NLP**, and **Agentic AI**
+🌱 Constantly exploring the frontiers of **Deep Learning**, **NLP**, and **Agentic AI**
 
 ⚡ I thrive on turning complex ML research into **scalable, deployable solutions**
 
-💬 Ask me about **YOLOv5**, **Flask APIs**, **SAP Integration**, or **Python + AI**
+💬 Ask me about **YOLOv5**, **Flask APIs**, **SAP Integration**, or anything **Python + AI**
 
-🎯 Seeking **Full-Time AI/ML Engineer** roles — let's build the future together!
+🎯 Currently seeking **Full-Time AI/ML Engineer** roles — let's build the future together!
 
 <br clear="right"/>
 
@@ -89,25 +61,47 @@
   <tr>
     <td>👤 <strong>Name</strong></td>
     <td>Sumit Kumar Sahu</td>
-    <td>⚡ <strong>Currently</strong></td>
-    <td>Building AI that solves real problems</td>
   </tr>
   <tr>
     <td>💼 <strong>Role</strong></td>
     <td>AI/ML Engineer</td>
-    <td>✅ <strong>Available</strong></td>
-    <td><strong>Open to Full-Time Roles</strong> 🟢</td>
   </tr>
   <tr>
     <td>📍 <strong>Location</strong></td>
-    <td>Bhubaneswar, India</td>
+    <td>Hydrabad,telangana,india</td>
+  </tr>
+  <tr>
+    <td>🎓 <strong>Education</strong></td>
+    <td>B.Tech CS (AI &amp; ML) — 2026</td>
+  </tr>
+  <tr>
     <td>📧 <strong>Email</strong></td>
     <td><a href="mailto:sumitkumarsahu1111@gmail.com">sumitkumarsahu1111@gmail.com</a></td>
   </tr>
   <tr>
-    <td>🎓 <strong>Education</strong></td>
-    <td>B.Tech CS (AI & ML) — 2026</td>
-    <td>💬 <strong>Motto</strong></td>
+    <td>📱 <strong>Phone</strong></td>
+    <td>+91 93484 52606</td>
+  </tr>
+  <tr>
+    <td>🔭 <strong>Focus Areas</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Computer%20Vision-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Intelligent%20Automation-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Full--Stack%20AI%20APIs-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-00d4ff?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Currently</strong></td>
+    <td>Building AI that solves real problems</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Available</strong></td>
+    <td><strong>Open to Full-Time Roles</strong> 🟢</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Life Motto</strong></td>
     <td><em>"Build things that think."</em></td>
   </tr>
 </table>
@@ -117,86 +111,69 @@
 ## 💼 Professional Experience
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=2+Internships+%7C+2+Production+Deployments+%7C+Real+Business+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=2+Internships+%7C+2+Production+Deployments+%7C+Real+Business+Impact" />
 </div>
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+### 🏢 Tata TPCODL — AI/ML Intern `Dec 2025 – Feb 2026`
 
-### 🏢 Tata TPCODL
-**AI/ML Intern** &nbsp;`Dec 2025 – Feb 2026`
-
-- 🎯 Deployed **Computer Vision** system for field meter inspection — eliminated all manual image validation
+- 🎯 Deployed a **Computer Vision** system for field meter inspection, eliminating all manual image validation
 - ⚡ Integrated **YOLOv5** end-to-end into a **Flask API** backend — production-ready from day one
-- 🏭 Scaled across live field operations with **zero downtime**
+- 🏭 Scaled across live field operations with zero downtime
 
-    </td>
-    <td width="50%" valign="top">
-
-### 🏢 Itradiant Solutions Pvt Ltd
-**AI/ML Intern** &nbsp;`Mar 2026 – May 2026`
+### 🏢 Itradiant Solutions Pvt Ltd — AI/ML Intern `Mar 2026 – May 2026`
 
 - 🤖 Automated invoice reconciliation with Python — cut manual AP effort by **~80%**
-- 📊 Built live **Streamlit + Plotly** dashboard tracking pipeline health in real time
-- 💰 Directly impacted **financial operations** at production scale
-
-    </td>
-  </tr>
-</table>
+- 📊 Built a live **Streamlit + Plotly** dashboard tracking pipeline health and cash-unlock status in real time
+- 💰 Directly impacted financial operations at production scale
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Projects+that+went+from+idea+to+production" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Projects+that+went+from+idea+to+production" />
 </div>
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🔌 AI-Powered Electric Meter Detection
-
-[![Repo](https://img.shields.io/badge/GitHub-meter--detection-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitsahu11/meter-detection)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-> Video Ingestion → Frame Extraction → YOLOv5 Training → Flask API → SQLite Logging
+> 🔗 **[View Repository → sumitsahu11/meter-detection-system](https://github.com/sumitsahu11/AI-Powered-Electric-Meter-Detection-System.git)**
+
+End-to-end CV pipeline:
+
+**Video Ingestion → Frame Extraction → Annotation → YOLOv5 Training → Flask API Inference → SQLite Logging**
 
 - ✅ **95% Accuracy** on live field images
-- ✅ **0.92 AUC** on real-world data
-- ✅ Production-deployed at **Tata TPCODL**
+- ✅ **0.92 AUC** score on real-world data
+- ✅ Production-deployed at Tata TPCODL
 
-    </td>
-    <td width="50%" valign="top">
+<br/>
 
 ### 📄 GR/IR Clearing Automation Engine
-
-[![Repo](https://img.shields.io/badge/GitHub-grir--automation-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitsahu11)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-> Invoice Input → Hybrid Matching → 4-Bucket Routing → SAP RFC/BAPI → Plotly Dashboard
+> 🔗 **[View Repository → sumitsahu11/GR-IR-automation](https://github.com/sumitsahu11/GR-IR-Clearing-Automation-System.git)**
+
+
+Hybrid **TF-IDF + RapidFuzz** matching engine:
+
+**Invoice Input → Hybrid Matching → 4-Bucket Routing → SAP RFC/BAPI Posting → Real-time Plotly Dashboard**
 
 - ✅ Auto-clears invoices with escalation pipeline
-- ✅ Direct **SAP integration** via RFC/BAPI
+- ✅ Direct SAP integration via RFC/BAPI
 - ✅ Live monitoring dashboard for ops team
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -204,20 +181,48 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Tools+I+use+to+bring+AI+ideas+to+life" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tools+I+use+to+bring+AI+ideas+to+life" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,streamlit,sklearn,git,aws,sqlite,html&theme=dark&perline=6" />
+**Languages**
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-| Category | Technologies |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFAB?style=flat-square&logo=pytorch&logoColor=black) |
-| **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **Cloud & DB** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
+<br/>
+
+**AI / ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFAB?style=for-the-badge&logo=pytorch&logoColor=black)
+
+<br/>
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+<br/>
+
+**Databases & Cloud**
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,streamlit,git,aws,sqlite,sklearn&theme=dark&perline=5" />
 
 </div>
 
@@ -227,32 +232,31 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=My+GitHub+stats+tell+the+story" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=My+GitHub+stats+tell+the+story" />
 
 <br/><br/>
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitsahu11&theme=github_dark" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitsahu11&theme=github_dark" alt="Sumit's GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitsahu11&theme=github_dark" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitsahu11&theme=github_dark" alt="Top Languages by Repo" />
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitsahu11&theme=github_dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitsahu11&theme=github_dark" width="100%" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitsahu11&theme=github_dark" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=7c3aed&ring=a855f7&fire=f43f5e&currStreakLabel=a855f7&background=0d1117&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0d1117" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -262,7 +266,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+the+foundation+brick+by+brick" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+foundation+brick+by+brick" />
 
 <br/><br/>
 
@@ -280,11 +284,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Milestones+along+the+journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Milestones+along+the+journey" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumitsahu11&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sumitsahu11&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -294,33 +298,33 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Open+to+opportunities+%26+collaborations;Let%27s+build+something+incredible+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+opportunities+%26+collaborations;Let%27s+build+something+incredible+together!" />
 
 <br/><br/>
 
 <a href="mailto:sumitkumarsahu1111@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/sumitsahu11">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="tel:+919348452606">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br/><br/>
 
-> *"The best way to predict the future is to build it with AI."* 🚀
+*"The best way to predict the future is to build it with AI."* 🚀
 
 <br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer&animation=twinkling" />
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
