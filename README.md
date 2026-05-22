@@ -1,4 +1,43 @@
-t Kumar Sahu**
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SUMIT%20KUMAR%20SAHU&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=60&descSize=18&descColor=a0d8ef" />
+
+<br/>
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Intelligent+Systems+from+Scratch;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real-World+Impact;AI+Intern+%40+Tata+TPCODL+%26+Itradiant+Solutions;Open+to+Full-Time+AI%2FML+Roles" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="mailto:sumitkumarsahu1111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumitsahu11">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+
+### 👋 Hey there! I'm **Sumit Kumar Sahu**
 
 🎓 Final-year **B.Tech CS (AI & ML)** student at Trident Academy of Technology, Bhubaneswar
 
@@ -16,29 +55,56 @@ t Kumar Sahu**
 
 <br clear="right"/>
 
-```python
-class SumitKumarSahu:
-    name        = "Sumit Kumar Sahu"
-    role        = "AI/ML Engineer"
-    location    = "Bhubaneswar, India"
-    education   = "B.Tech CS (AI & ML) -- 2026"
-    email       = "sumitkumarsahu1111@gmail.com"
-    phone       = "+91 93484 52606"
+<br/>
 
-    focus_areas = [
-        "Computer Vision",
-        "Deep Learning",
-        "Intelligent Automation",
-        "Full-Stack AI APIs",
-        "NLP & LLMs",
-    ]
-
-    currently   = "Building AI that solves real problems"
-    available   = True   # Open to Full-Time Roles
-
-    def life_motto(self):
-        return "Build things that think."
-```
+<table>
+  <tr>
+    <td>👤 <strong>Name</strong></td>
+    <td>Sumit Kumar Sahu</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Role</strong></td>
+    <td>AI/ML Engineer</td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Location</strong></td>
+    <td>Bhubaneswar, India</td>
+  </tr>
+  <tr>
+    <td>🎓 <strong>Education</strong></td>
+    <td>B.Tech CS (AI &amp; ML) — 2026</td>
+  </tr>
+  <tr>
+    <td>📧 <strong>Email</strong></td>
+    <td><a href="mailto:sumitkumarsahu1111@gmail.com">sumitkumarsahu1111@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>📱 <strong>Phone</strong></td>
+    <td>+91 93484 52606</td>
+  </tr>
+  <tr>
+    <td>🔭 <strong>Focus Areas</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Computer%20Vision-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Intelligent%20Automation-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Full--Stack%20AI%20APIs-00d4ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-00d4ff?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Currently</strong></td>
+    <td>Building AI that solves real problems</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Available</strong></td>
+    <td><strong>Open to Full-Time Roles</strong> 🟢</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Life Motto</strong></td>
+    <td><em>"Build things that think."</em></td>
+  </tr>
+</table>
 
 ---
 
