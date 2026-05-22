@@ -1,337 +1,400 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          SUMIT KUMAR SAHU — GitHub Profile README            ║ -->
-<!-- ║  Replace every "sumitkumarsahu" with your actual username    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--           SUMIT KUMAR SAHU — GitHub Profile README        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ════════════════════ HEADER BANNER (3D glow effect) ════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=280&section=header&text=Sumit%20Kumar%20Sahu&fontSize=78&fontColor=ffffff&fontAlignY=52&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descAlignY=72&descSize=20&stroke=A855F7&strokeWidth=3" alt="Header"/>
+<!-- ▓▓▓  ANIMATED HEADER  ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a2e,60:001a3d,100:00d4ff&height=280&section=header&text=Sumit%20Kumar%20Sahu&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=🤖%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Automation&descColor=00d4ff&descAlignY=62&descSize=18&animation=fadeIn&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
-<!-- ════════════════════ TYPING ANIMATION ════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=🧠+Building+AI+that+Thinks+%26+Solves;🎯+Computer+Vision+%7C+Deep+Learning+%7C+MLOps;⚡+YOLOv5+%7C+PyTorch+%7C+TensorFlow+%7C+Flask;🚀+Turning+Raw+Data+into+Real+Intelligence;💡+From+Bhubaneswar+%E2%80%94+Building+for+the+World" alt="Typing SVG"/>
+<br/>
+
+<!-- ▓▓▓  ANIMATED TYPING  ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=🚀+Building+AI+that+works+in+the+real+world;👁️+Computer+Vision+%7C+YOLOv5+%7C+95%25+Accuracy;⚡+Automated+80%25+of+manual+AP+processing;🧠+Deep+Learning+%7C+PyTorch+%7C+TensorFlow;🏭+Production-Ready+AI+%7C+2+Internships+Completed;💡+Turning+Data+into+Decisions%2C+Code+into+Impact" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ════════════════════ SOCIAL BADGES ════════════════════ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkumarsahu)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkumarsahu1111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkumarsahu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
+<!-- ▓▓▓  SOCIAL BADGES  ▓▓▓ -->
+<a href="mailto:sumitkumarsahu1111@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sumitkumarsahu1111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+</a>
 <br/>
+<a href="https://www.linkedin.com/in/sumit-kumar-sahu">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://github.com/sumit-kumar-sahu">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Location-Bhubaneswar%2C_India-FF6B35?style=for-the-badge&labelColor=0d0d0d"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumitkumarsahu&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sumitkumarsahu?label=FOLLOWERS&style=for-the-badge&color=302b63)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢_Status-Open%20to%20Opportunities-00d4ff?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_Graduating-June%202026-a78bfa?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📞_Phone-%2B91%209348452606-25D366?style=for-the-badge&labelColor=0a0a2e"/>
 
 </div>
 
 <br/>
 
----
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
+<br/>
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ══════════════════ ABOUT ME ══════════════════ -->
 
-## 🧠 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=👨‍💻+About+Me&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
+
+<br/>
 
 ```python
-class SumitKumarSahu:
-    def __init__(self):
-        self.name        = "Sumit Kumar Sahu"
-        self.role        = "AI/ML Engineer"
-        self.location    = "Bhubaneswar, Odisha 🇮🇳"
-        self.education   = "B.Tech CSE (AI & ML) — 2026"
-        self.college     = "Trident Academy of Technology"
-        self.specialties = [
-            "🎯 Computer Vision & Object Detection",
-            "🤖 Deep Learning & Neural Networks",
-            "⚙️  Intelligent Process Automation",
-            "🚀 ML Deployment & MLOps",
-        ]
-        self.currently   = "Open to Full-Time AI/ML Roles 🔍"
-        self.contact     = "sumitkumarsahu1111@gmail.com"
-        self.motto       = "Build AI that solves real problems 🚀"
+#!/usr/bin/env python3
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  sumit_kumar_sahu.py  |  AI/ML Engineer  |  Class 2026
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    def say_hi(self):
-        print("Thanks for stopping by!")
-        print("Let's build something incredible together. 🤝")
+class SumitKumarSahu:
+
+    name      = "Sumit Kumar Sahu"
+    role      = "AI/ML Engineer 🤖"
+    location  = "Bhubaneswar, Odisha, India 🇮🇳"
+    education = "B.Tech CSE (AI & ML) — Trident Academy of Technology, 2026"
+
+    skills = {
+        "languages"  : ["Python 🐍", "SQL 🗄️", "HTML 🌐"],
+        "ai_ml"      : ["YOLOv5", "TF-IDF", "Machine Learning", "Deep Learning", "CV"],
+        "frameworks" : ["PyTorch", "TensorFlow", "Flask", "Streamlit", "Scikit-learn"],
+        "libraries"  : ["OpenCV", "Pandas", "NumPy", "Plotly", "RapidFuzz"],
+        "tools"      : ["Git", "AWS", "SQLite", "SAP RFC/BAPI"],
+    }
+
+    highlights = [
+        "✅  95% CV accuracy on live field deployment  →  Tata TPCODL",
+        "⚡  80% reduction in manual AP processing    →  Itradiant Solutions",
+        "🚀  YOLOv5 → Flask API → production in < 3 months",
+        "📊  Real-time Plotly dashboard used in operations daily",
+    ]
+
+    def mission(self):
+        return (
+            "Building production-grade AI solutions that solve real problems. "
+            "From computer vision pipelines to intelligent automation engines — "
+            "I ship systems that work in the field, not just in notebooks. 🚀"
+        )
 
 me = SumitKumarSahu()
-me.say_hi()
+print(me.mission())
 ```
 
-<br clear="both"/>
+<br/>
 
----
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
 
-<!-- ════════════════════ CURRENT STATUS ════════════════════ -->
-## 📌 Current Status
+<br/>
 
-| | |
-|---|---|
-| 🔭 Working On | Enhancing ML pipelines & Computer Vision systems |
-| 🌱 Learning | LLMs · RAG Pipelines · LangChain |
-| 👀 Open To | Full-time AI/ML Engineer roles (2026) |
-| 💬 Ask Me About | YOLOv5 · Flask APIs · Automation · Streamlit |
-| ⚡ Fun Fact | I make machines see — then I make them think |
+<!-- ══════════════════ SKILLS ══════════════════ -->
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=🛠️+Tech+Stack&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
 
-<!-- ════════════════════ WORK EXPERIENCE ════════════════════ -->
-## 💼 Work Experience
+<br/>
 
+<div align="center">
+
+<!-- Row 1 — AI/ML tools -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=5" />
+
+<br/><br/>
+
+<!-- Row 2 — Backend / Web / Cloud -->
+<img src="https://skillicons.dev/icons?i=flask,html,aws,git,github&theme=dark&perline=5" />
+
+<br/><br/>
+
+<!-- Animated skill-level badges (shields.io — always visible) -->
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0d0d"/>
+<br/>
+<img src="https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/YOLOv5-Computer_Vision-00d4ff?style=for-the-badge&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Flask-API_Backend-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d0d0d"/>
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--learn-ML_Pipelines-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+| 🔷 Domain | 🛠 Tools | ⭐ Level |
+|:---|:---|:---:|
+| **Computer Vision** | YOLOv5 · OpenCV · PyTorch | `████████████` Expert |
+| **Machine Learning** | Scikit-learn · TF-IDF · RapidFuzz | `███████████░` Advanced |
+| **Deep Learning** | PyTorch · TensorFlow · CNNs | `██████████░░` Advanced |
+| **API Backend** | Flask · REST · SQLite | `█████████░░░` Proficient |
+| **Data Viz & BI** | Streamlit · Plotly · Pandas | `████████████` Expert |
+| **ERP Integration** | SAP RFC/BAPI · SQL | `█████████░░░` Proficient |
+| **Cloud & DevOps** | AWS · Git · GitHub | `████████░░░░` Proficient |
+
+</div>
+
+<br/>
+
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════ EXPERIENCE ══════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=💼+Work+Experience&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏭_Itradiant_Solutions_Pvt_Ltd-AI%2FML+Intern-00d4ff?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📅_Mar_2026_–_May_2026-Completed-00ff88?style=for-the-badge&labelColor=0a0a2e"/>
+
+</div>
+
+```
+  🔹  Automated invoice reconciliation workflow using Python
+      ➜  Cut manual AP (Accounts Payable) processing effort by ~80%
+
+  🔹  Delivered a live monitoring dashboard (Streamlit + Plotly)
+      ➜  Tracks pipeline health & cash-unlock status in real time
+
+  ⚡  Impact: 80% faster processing  |  Used daily by operations team
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏢_Tata_TPCODL-AI%2FML+Intern-FF6B35?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📅_Dec_2025_–_Feb_2026-Completed-a78bfa?style=for-the-badge&labelColor=0a0a2e"/>
+
+</div>
+
+```
+  🔹  Deployed a Computer Vision system for electric field meter inspection
+      ➜  Eliminated 100% of manual image validation across operations
+
+  🔹  Integrated YOLOv5 model end-to-end into a Flask API backend
+      ➜  Production-ready for real-world field deployment
+
+  ⚡  Impact: 95% CV accuracy  |  0.92 AUC  |  Zero manual validation
+```
+
+<br/>
+
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════ PROJECTS ══════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=🚀+Featured+Projects&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Tata TPCODL
-**AI/ML Intern** &nbsp;|&nbsp; `Dec 2025 – Feb 2026`
+<div align="center">
 
-- 🔍 Deployed **Computer Vision system** for field electric meter inspection — eliminated 100% manual image validation across operations
-- ⚙️ Integrated **YOLOv5** end-to-end into a **Flask REST API** backend — production-ready for real-world deployment
-- 🎯 Achieved **95% accuracy** & **0.92 AUC** on live field images
-- 🗄️ Structured inference logging via **SQLite**
+**👁️ AI-Powered Electric Meter Detection**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Accuracy-95%25-00ff88?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/AUC-0.92-00d4ff?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Status-Production_Ready-FF6B35?style=flat-square&labelColor=0d0d0d"/>
 
-### 💡 Itradiant Solutions Pvt. Ltd.
-**AI/ML Intern** &nbsp;|&nbsp; `Mar 2026 – May 2026`
-
-- 🤖 Automated full **invoice reconciliation workflow** — cut manual AP processing by **~80%**
-- 📊 Delivered live **Streamlit + Plotly** dashboard tracking pipeline health & cash-unlock status in real time
-- 🔗 Direct **SAP RFC/BAPI** integration for enterprise-grade invoice posting
-- 🧠 Built **Hybrid TF-IDF + RapidFuzz** engine for intelligent invoice matching
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 GR/IR Clearing Automation Engine
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_RFC/BAPI-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+</div>
 
 ```
-📥 Invoice Input
-      │
-      ▼
-🧠 Hybrid TF-IDF + RapidFuzz Engine
-      │
-      ▼
-📂 4-Bucket Smart Routing:
-  ✅ Auto-Clear → 🔍 Review
-  ⚠️ Escalate  → ❌ Reject
-      │
-      ▼
-🔗 SAP RFC/BAPI Direct Posting
-      │
-      ▼
-📊 Real-time Plotly Dashboard
+📹  Video ingestion
+    ↓
+🖼️  Frame extraction & annotation
+    ↓
+🏋️  YOLOv5 model training
+    ↓
+🌐  Flask REST API inference
+    ↓
+🗄️  SQLite result logging
+    ↓
+✅  95% accuracy on live field images
 ```
-
-> ✅ Reduced AP effort by **~80%** · Live enterprise deployment
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 AI Meter Detection System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**⚡ GR/IR Clearing Automation Engine**
+
+<img src="https://img.shields.io/badge/Efficiency-80%25_Faster-00ff88?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/SAP-Integrated-0FAAFF?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Status-Live_Dashboard-a78bfa?style=flat-square&labelColor=0d0d0d"/>
+
+</div>
+
 ```
-🎥 Video Ingestion
-      │
-      ▼
-🖼️  Frame Extraction & Annotation
-      │
-      ▼
-🏋️  YOLOv5 Custom Model Training
-      │
-      ▼
-🌐 Flask REST API Inference
-      │
-      ▼
-🗄️  SQLite Logging & Results
+📄  Invoice ingestion
+    ↓
+🧩  TF-IDF + RapidFuzz hybrid matching
+    ↓
+🪣  4-bucket routing:
+    Auto-Clear / Review / Partial / Escalate
+    ↓
+🔗  Direct SAP RFC/BAPI posting
+    ↓
+📊  Real-time Plotly dashboard
+    ↓
+✅  80% reduction in manual effort
 ```
 
-> ✅ **95% Accuracy** · **0.92 AUC** · Deployed @ Tata TPCODL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&labelColor=0d0d0d)
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- ════════════════════ TECH ARSENAL ════════════════════ -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**🐍 Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**🤖 AI · ML · Computer Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00B4D8?style=for-the-badge&logoColor=white)
-
-**🌐 Frameworks & Libraries**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**☁️ Tools · Cloud · Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_RFC/BAPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 </div>
 
----
-
-<!-- ════════════════════ GITHUB ANALYTICS ════════════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitkumarsahu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7B2FBE&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&icon_color=7B2FBE&border_radius=10"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsahu&layout=compact&langs_count=8&theme=midnight-purple&border_color=7B2FBE&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img width="67%" src="https://streak-stats.demolab.com?user=sumitkumarsahu&theme=midnight-purple&border=7B2FBE&background=0D0D0D&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sumitkumarsahu&theme=darkhub&column=6&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitkumarsahu&bg_color=0d0d0d&color=A855F7&line=7B2FBE&point=ffffff&area=true&area_color=1a0533&border_color=7B2FBE&radius=8)
-
-</div>
-
----
-
-<!-- ════════════════════ EDUCATION ════════════════════ -->
-## 🎓 Education
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🏛️  Trident Academy of Technology, Bhubaneswar                     ║
-║       B.Tech — Computer Science Engineering (AI & ML)                ║
-║       2022 – 2026                                                    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  📚  Kendriya Vidyalaya No.6, Bhubaneswar                            ║
-║       Senior Secondary — XII (CBSE)              2021 – 2022        ║
-║       Secondary        —  X (CBSE)               2019 – 2020        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ════════════════════ SNAKE CONTRIBUTION ════════════════════ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ <b>How to activate the snake animation</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
 
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<br/>
 
-</details>
+<!-- ══════════════════ IMPACT METRICS ══════════════════ -->
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=⚡+Impact+Metrics&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
 
-<!-- ════════════════════ CONNECT ════════════════════ -->
-## 🤝 Let's Connect
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Kumar%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkumarsahu)
-[![Gmail](https://img.shields.io/badge/Gmail-sumitkumarsahu1111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkumarsahu1111@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2093484%2052606-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919348452606)
+<img src="https://img.shields.io/badge/🎯_CV_Accuracy-95%25-00ff88?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📊_AUC_Score-0.92-00d4ff?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_Automation_Gain-80%25_Faster-FF6B35?style=for-the-badge&labelColor=0a0a2e"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏭_Internships-2_Completed-a78bfa?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_Projects-2_in_Production-00d4ff?style=for-the-badge&labelColor=0a0a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📅_Graduating-June_2026-00ff88?style=for-the-badge&labelColor=0a0a2e"/>
+
+<br/><br/>
+
+<!-- Animated metric typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=600&color=00FF88&center=true&vCenter=true&width=700&height=40&lines=🎯+95%25+Computer+Vision+Accuracy+on+Live+Field+Data;⚡+80%25+Reduction+in+Manual+Processing+Time;🔌+YOLOv5+→+Flask+API+→+Full+Production+Deploy;📊+Real-Time+Dashboard+Used+by+Operations+Teams" alt="Metrics Typing" />
 
 </div>
 
----
+<br/>
 
-<!-- ════════════════════ FOOTER ════════════════════ -->
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════ EDUCATION ══════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=🎓+Education&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
+
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Let%27s%20Build%20the%20Future%20with%20AI%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-
-**✨ "Code is poetry. AI is the future. Let's write it — together." ✨**
-
-⭐ If my work inspires you, drop a star — it means the world!
+| 🏛️ Institution | 📚 Qualification | 🗓️ Year |
+|:---|:---|:---:|
+| **Trident Academy of Technology, Bhubaneswar** | B.Tech — CSE (AI & ML) | `2022 – 2026` |
+| **Kendriya Vidyalaya No. 6, Bhubaneswar** | Senior Secondary · XII · CBSE | `2021 – 2022` |
+| **Kendriya Vidyalaya No. 6, Bhubaneswar** | Secondary · X · CBSE | `2019 – 2020` |
 
 </div>
+
+<br/>
+
+<!-- ══════ GRADIENT DIVIDER ══════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,24&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════ CONNECT ══════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a2e,100:001a3d&height=55&text=🤝+Let's+Connect&fontSize=26&fontColor=00d4ff&animation=twinkling" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="mailto:sumitkumarsahu1111@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sumit-kumar-sahu">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/sumit-kumar-sahu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Animated quote -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4500&pause=2000&color=a78bfa&center=true&vCenter=true&width=700&height=40&lines=%22Real+AI+ships+to+production%2C+not+just+notebooks.%22;%22The+best+model+is+the+one+that+solves+the+actual+problem.%22;%22Code+is+poetry+—+every+model+tells+a+story.%22" alt="Quote" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⭐_If_you_find_my_work_useful,_star_a_repo!-00d4ff?style=for-the-badge&labelColor=0d0d0d"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ ANIMATED FOOTER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:0a0a2e,60:001a3d,100:0d0d0d&height=160&section=footer&text=Thanks+for+visiting!+🚀&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
