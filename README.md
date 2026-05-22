@@ -236,10 +236,13 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 <table>
   <tr>
     <td>
-      
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitsahu11&theme=github_dark" alt="Sumit's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&exclude_repo=github-readme-stats" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitsahu11&theme=github_dark" alt="Top Languages by Repo" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitsahu11&theme=github_dark" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
