@@ -12,14 +12,14 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sumitkumarsahu&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sumitsahu11&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <a href="mailto:sumitkumarsahu1111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sumitkumarsahu">
+  <a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sumitkumarsahu">
+  <a href="https://github.com/sumitsahu11">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -28,23 +28,33 @@
 
 ---
 
-## 🧠 About Me
+<!-- About Me Section with Side by Side Layout -->
+<img align="right" alt="AI Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" alt="AI Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### 🧠 About Me
 
-👋 Hey there! I'm **Sumit Kumar Sahu**, an aspiring **AI/ML Engineer** from 🇮🇳 Bhubaneswar, India, graduating in **B.Tech CS (AI & ML) — 2026**.
+```python
+class SumitKumarSahu:
+    def __init__(self):
+        self.name        = "Sumit Kumar Sahu"
+        self.role        = "AI/ML Engineer"
+        self.location    = "Bhubaneswar, India 🇮🇳"
+        self.education   = "B.Tech CS (AI & ML) — 2026"
+        self.email       = "sumitkumarsahu1111@gmail.com"
+        self.phone       = "+91 93484 52606"
 
-I love turning messy real-world data into intelligent, production-ready systems. Whether it's training a computer vision model on field images or automating financial pipelines end-to-end — I build things that *actually work*.
+    @property
+    def focus_areas(self):
+        return [
+            "Computer Vision 👁️",
+            "Deep Learning 🧬",
+            "Intelligent Automation 🤖",
+            "Full-Stack AI APIs 🚀",
+        ]
 
-🎯 **What drives me:**
-- 👁️ **Computer Vision** — making machines see and understand the world
-- 🧬 **Deep Learning** — pushing state-of-the-art architectures to production
-- 🤖 **Intelligent Automation** — eliminating repetitive human work at scale
-- 🚀 **Full-Stack AI APIs** — from model training to live deployment
-
-📫 Reach me at **sumitkumarsahu1111@gmail.com** · 📞 **+91 93484 52606**
-
-> *"Build things that think. 💡"*
+    def life_motto(self):
+        return "Build things that think. 💡"
+```
 
 <br clear="right"/>
 
@@ -59,7 +69,7 @@ I love turning messy real-world data into intelligent, production-ready systems.
 ### 🏢 Tata TPCODL
 **AI/ML Intern** &nbsp; `Dec 2025 – Feb 2026`
 
-- 🎯 Deployed a **Computer Vision** system for field meter inspection — eliminated all manual image validation
+- 🎯 Deployed a **Computer Vision** system for field meter inspection eliminating all manual image validation
 - ⚡ Integrated **YOLOv5** end-to-end into a **Flask API** backend — production-ready from day one
 - 🏭 Scaled across live field operations with zero downtime
 
@@ -83,8 +93,9 @@ I love turning messy real-world data into intelligent, production-ready systems.
 
 <div align="center">
 
+<!-- Project Cards -->
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitkumarsahu&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsahu11&repo=meter-detection&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" />
 </a>
 
 </div>
@@ -171,21 +182,22 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitkumarsahu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsahu&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitsahu11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsahu11&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkumarsahu&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsahu11&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
 </div>
 
 <br/>
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitkumarsahu&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsahu11&theme=github-compact&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%" />
 </div>
 
 ---
@@ -207,7 +219,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumitkumarsahu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumitsahu11&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
@@ -216,9 +228,9 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sumitkumarsahu/sumitkumarsahu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sumitsahu11/sumitsahu11/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -232,11 +244,11 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/sumitkumarsahu">
+<a href="https://www.linkedin.com/in/sumit-kumar-sahu-571252330">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/sumitkumarsahu">
+<a href="https://github.com/sumitsahu11">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
@@ -250,6 +262,7 @@ Hybrid **TF-IDF + RapidFuzz** matching engine:
 
 <br/>
 
+<!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
